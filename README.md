@@ -6,7 +6,8 @@ This project implements an end-to-end CI/CD pipeline, incorporating Security Bes
 
 ## Architecture
 
-![architecture](https://github.com/kameshwadhai/DevSecOps/assets/81626655/9e16686b-d74b-48ef-b688-ca59638e3971)
+![architecture](https://github.com/kameshwadhai/DevSecOps/assets/81626655/d3a875e8-d658-4689-814d-45779b54a90f)
+
 
 
 ## Key Technologies Used
